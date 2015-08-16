@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>RepData_PeerAssessment1/PA1_template.Rmd at master · Xiaodan/RepData_PeerAssessment1</title>
+    <title>RepData_PeerAssessment1/PA1_template.md at master · Xiaodan/RepData_PeerAssessment1</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -24,7 +24,7 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MTAxODkyNDk6MmIxY2U1OWUzN2M3OTE1OGJjMmIyYjYwNDdlNzA4YzY6YTE5NWQwYzkyMWM0NDIzOTczZTU5NTkxMGJiZDU1YWIwNDE4M2ExMWFjMWY0Y2JkMmUyMWU3YWFmMjcxZDBjOQ==--e4d7faf1cc756733bbf17a01d85d25a4e792ca6e">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTAxODkyNDk6MmIxY2U1OWUzN2M3OTE1OGJjMmIyYjYwNDdlNzA4YzY6YmE5ZWNjZTZhMDFjMzA2Yjg5YTdiNGEwOWQ3YTc2YTVmNGFiNWUxNjQwZGZlMmRlNTgwYWFkN2E5NDFjMGRjYw==--1f219db5e421cf604e1e65ec482d5b3aefabe174">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -34,7 +34,7 @@
 
         <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="6C5D4F92:7C78:2CBD431:55D11DD9" name="octolytics-dimension-request_id" /><meta content="10189249" name="octolytics-actor-id" /><meta content="FloraC" name="octolytics-actor-login" /><meta content="2f187ae2b303f0596c08b3336012bcc46218e6a83ef13380dc9c75bcd8894bbf" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="6C5D4F92:7C78:2CBD645:55D11DE8" name="octolytics-dimension-request_id" /><meta content="10189249" name="octolytics-actor-id" /><meta content="FloraC" name="octolytics-actor-login" /><meta content="2f187ae2b303f0596c08b3336012bcc46218e6a83ef13380dc9c75bcd8894bbf" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" data-pjax-transient="true" name="analytics-event" />
     <meta class="js-ga-set" name="dimension1" content="Logged In">
@@ -48,7 +48,7 @@
       <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
 
     <!-- </textarea> --><!-- '"` --><meta content="authenticity_token" name="csrf-param" />
-<meta content="x6DyRox3IVK9dOyi4RvlX2Qu4E2uzk9hUgMMxt5Ma9FqHememb9ytOsdNRacIssNZ3UQ03NSSVLcrPX2tT/+og==" name="csrf-token" />
+<meta content="EFZiPx/bzoNsYxUGSgaCQCFnMSoNtRmjd+VYLLCEGJPjcQdE/NmJwnae/kki7aY2ne2jnPbHdKPPaJiJBs6qMQ==" name="csrf-token" />
     
 
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github/index-78350b39bf13714f4b06a2153e5374de01bc939bfa60ec9bdb34dbb2032dda4b.css" media="all" rel="stylesheet" />
@@ -191,7 +191,7 @@
           Settings
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xQ7qQWkfyr7n/la4sNjMdrR93Dip7FBvOfzupevG74scvf3UV8NDuN3CR5tpie/1lFYIrd+Y2YRNJ/PXKENrQw==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ns+mfBLF4PT5SfEidthcskGTQ7DnevJ/EPnKz7SVOdpUGIToUggHFzF/PgyDXsKuUZx/j3tQ8+VFeQ7rUYsQPw==" /></div>
           <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -223,7 +223,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8W9OtzJ31d9VK/Kbj8P3xhf7PisksUGdnlynkQw6aiMX/duQUK232I7RXy2auxi42tlsjnaJqbumhy3DY7mH+A==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="21998662" />
+      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8HL6bOHLgGYGdQbpvg93VQehx9tUsciNW50RJc7zyMajbxkA1bm+oAEWJFVbsa90OpvNm6KwMK4yL3wxJIujSw==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="21998662" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a href="/Xiaodan/RepData_PeerAssessment1/subscription"
@@ -298,7 +298,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/RepData_PeerAssessment1/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="F6XdPy+R64B1AO3B9g7He9Dy0B4/fq7a2kaddTGL6bD+dC+tFXmRyhZu+nu6l/yLlqqHlF2ni5rkiBNgDlySIA==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/RepData_PeerAssessment1/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="WYdTRaNf2p/QZ0QQavf8FjexcMqCJGjsvvtbHgWsr6yk4MwbGDBw3U2atam1HP+4jtW0wx6qU80LFXqfyk65VQ==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar Xiaodan/RepData_PeerAssessment1"
@@ -310,7 +310,7 @@
           0
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/RepData_PeerAssessment1/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="OpHl9Wqb69vuWumA8pF8COO/CK6kkvJItkr7zpeMzpbZJ6Ept2ISstKYi4L26PY1mfPv1+DsTGS967/g5zUiDw==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/RepData_PeerAssessment1/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="MtBPvp6jbwkCEOTT48w26EW12ZtkFggR1IjeV7jNqFJ8WkHCeVwSNo8QffyaTixATMi1H9h7unux//iLBiQmMg==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star Xiaodan/RepData_PeerAssessment1"
@@ -326,7 +326,7 @@
   </li>
 
         <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/RepData_PeerAssessment1/fork" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vtmH87Ybvkt+vHPrCj65eS24fBnLbSjHVlcFa2f+8v8mANQ/R57osdFUVteeKCka804ZYydr4eJfDiRxu+DjqA==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/RepData_PeerAssessment1/fork" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KUQ20YIrsokYUMqzozbpkCcRd5uuRHuVtVO78LxCaI8VWb7d9h62gpTX/8gcxOyqRfqx/hTmjIdH5wf8Hkd/0g==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -452,7 +452,7 @@
 
 
   <div class="clone-options">You can clone with
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="emOAEGHRF0mhT/sVW0tMceFuQmgJk2lV6HueFnzuzSzMGEURedC7gjvSqPrxRIyxLk6qOD7XIUb8wC5ZJjHryA==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="q1ajDoz8yI9EkrT9YQdD71mzkOPBtmnFh4X5hcM4aAgT+uaHvGCg7bR/XC5jkS52xsfMUgOiU69VLT8kuheZNg==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VOURxfrnb7mrDMbgykSP2JhVyoCMnlO7w6J5kv9cQHKpVxbNS7UPUN9YCzlmfd60w6ZhfAxRg0LQlnD6vUTEdw==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GWGAbgq262pr2Q2rx8mHYxnwvWFOzheSTo5kuJm9RSi71HT88awlILOD6d9qRLV6zR2o8BCKZQVpR36Cv0NhkQ==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="E5p2TMm40PQGmJe89++/S3lsPAMQueCkMVlfkabIC9g6YZ5ohH1hoi6NJg1yYEYBVt1U91BTEry5geEqDoz0Pw==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lwpIBcwNFOc6PnnXBXOcUlWi0kTq2mYoh3ZHMwg5W2yjVoFaBPo2RM/UlKoQAHmjw11gZ45dUioQKrP4l/huTw==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
     <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
       <span class="octicon octicon-question"></span>
     </a>
@@ -476,9 +476,9 @@
 
             
 
-<a href="/Xiaodan/RepData_PeerAssessment1/blob/6a1b0529f56defc984bd582b3726b8b65be78dcd/PA1_template.Rmd" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/Xiaodan/RepData_PeerAssessment1/blob/6a1b0529f56defc984bd582b3726b8b65be78dcd/PA1_template.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:6c7d1f7da32e98f0a11c29a099de36aa -->
+<!-- blob contrib key: blob_contributors:v21:c72a48f7099193b253d12c3c4a14c63d -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -521,7 +521,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/Xiaodan/RepData_PeerAssessment1/blob/master/PA1_template.Rmd"
+               href="/Xiaodan/RepData_PeerAssessment1/blob/master/PA1_template.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -560,7 +560,7 @@
     </div>
 
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Xiaodan/RepData_PeerAssessment1" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.Rmd</strong>
+      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Xiaodan/RepData_PeerAssessment1" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.md</strong>
     </div>
   </div>
 
@@ -569,23 +569,20 @@
     <div class="file-history-tease-header">
         <img alt="@Xiaodan" class="avatar" height="24" src="https://avatars1.githubusercontent.com/u/1871047?v=3&amp;s=48" width="24" />
         <span class="author"><a href="/Xiaodan" rel="author">Xiaodan</a></span>
-        <time datetime="2014-07-25T05:10:24Z" is="relative-time">Jul 25, 2014</time>
+        <time datetime="2014-07-19T07:22:26Z" is="relative-time">Jul 19, 2014</time>
         <div class="commit-title">
-            <a href="/Xiaodan/RepData_PeerAssessment1/commit/9b437814299aedf24366b7fa88d8f56d2caef253" class="message" data-pjax="true" title="Fixed typo in title.">Fixed typo in title.</a>
+            <a href="/Xiaodan/RepData_PeerAssessment1/commit/5aa8ccf61c4c25b826f22068b88dac63133e8984" class="message" data-pjax="true" title="Fixed bugs.">Fixed bugs.</a>
         </div>
     </div>
 
     <div class="participation">
       <p class="quickstat">
         <a href="#blob_contributors_box" rel="facebox">
-          <strong>2</strong>
-           contributors
+          <strong>1</strong>
+           contributor
         </a>
       </p>
-          <a class="avatar-link tooltipped tooltipped-s" aria-label="Xiaodan" href="/Xiaodan/RepData_PeerAssessment1/commits/master/PA1_template.Rmd?author=Xiaodan"><img alt="@Xiaodan" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/1871047?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="rdpeng" href="/Xiaodan/RepData_PeerAssessment1/commits/master/PA1_template.Rmd?author=rdpeng"><img alt="@rdpeng" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/9612?v=3&amp;s=40" width="20" /> </a>
-
-
+      
     </div>
     <div id="blob_contributors_box" style="display:none">
       <h2 class="facebox-header">Users who have contributed to this file</h2>
@@ -593,10 +590,6 @@
           <li class="facebox-user-list-item">
             <img alt="@Xiaodan" height="24" src="https://avatars1.githubusercontent.com/u/1871047?v=3&amp;s=48" width="24" />
             <a href="/Xiaodan">Xiaodan</a>
-          </li>
-          <li class="facebox-user-list-item">
-            <img alt="@rdpeng" height="24" src="https://avatars0.githubusercontent.com/u/9612?v=3&amp;s=48" width="24" />
-            <a href="/rdpeng">rdpeng</a>
           </li>
       </ul>
     </div>
@@ -607,38 +600,40 @@
     <div class="file-actions">
 
       <div class="btn-group">
-        <a href="/Xiaodan/RepData_PeerAssessment1/raw/master/PA1_template.Rmd" class="btn btn-sm " id="raw-url">Raw</a>
-          <a href="/Xiaodan/RepData_PeerAssessment1/blame/master/PA1_template.Rmd" class="btn btn-sm js-update-url-with-hash">Blame</a>
-        <a href="/Xiaodan/RepData_PeerAssessment1/commits/master/PA1_template.Rmd" class="btn btn-sm " rel="nofollow">History</a>
+        <a href="/Xiaodan/RepData_PeerAssessment1/raw/master/PA1_template.md" class="btn btn-sm " id="raw-url">Raw</a>
+          <a href="/Xiaodan/RepData_PeerAssessment1/blame/master/PA1_template.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
+        <a href="/Xiaodan/RepData_PeerAssessment1/commits/master/PA1_template.md" class="btn btn-sm " rel="nofollow">History</a>
       </div>
 
         <a class="octicon-btn tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/Xiaodan/RepData_PeerAssessment1?branch=master&amp;filepath=PA1_template.Rmd"
+           href="github-windows://openRepo/https://github.com/Xiaodan/RepData_PeerAssessment1?branch=master&amp;filepath=PA1_template.md"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <span class="octicon octicon-desktop-download"></span>
         </a>
 
-            <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/RepData_PeerAssessment1/edit/master/PA1_template.Rmd" class="inline-form" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mV41EYM1+v0zDrLKPLaNeNR94OsoNJtLd5MSANZ0ykLMEvM9O2kFM9AURkmt07zjzaUHdmEERYYdxFvG62lbwA==" /></div>
+            <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/RepData_PeerAssessment1/edit/master/PA1_template.md" class="inline-form" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VZSwiVY58VLQoGcq09XJ8OU4hrHB5gbfM6VsstxZy3TzuSO2+CBehdf++le/AOtb2Mgdy6ozPEH3XFoSBBzG1Q==" /></div>
               <button class="octicon-btn tooltipped tooltipped-n" type="submit" aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
                 <span class="octicon octicon-pencil"></span>
               </button>
 </form>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/RepData_PeerAssessment1/delete/master/PA1_template.Rmd" class="inline-form" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3sNurXBI31pxrt9GxfXFEDosCR+qHH45dk5ga+bnSaoVWHFfQYdQTVrQphjmcQvmizwEmkQ5lhKoPXRvWqkhoQ==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Xiaodan/RepData_PeerAssessment1/delete/master/PA1_template.md" class="inline-form" data-form-nonce="4decf78111106bf20c7da0ccb4a1283e2db706cf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g5AMMCyTNSAj5NI3+8PMeMZlxFdldzTNJNgXYK4wR+vNIp7bPKY+kmvTxorDR2/R06akex2mlTdZjTKpNwyjHA==" /></div>
             <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-n" type="submit" aria-label="Delete this file in your fork of this project" data-disable-with>
               <span class="octicon octicon-trashcan"></span>
             </button>
 </form>    </div>
 
     <div class="file-info">
-        146 lines (118 sloc)
+        276 lines (206 sloc)
         <span class="file-info-divider"></span>
-      5.593 kB
+      7.193 kB
     </div>
   </div>
   
   <div id="readme" class="blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1><a id="user-content-reproducible-research-peer-assessment-1" class="anchor" href="#reproducible-research-peer-assessment-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reproducible Research: Peer Assessment 1</h1>
+
+<h1></h1>
 
 <p>Created by Xiaodan Zhang on July 18, 2014</p>
 
@@ -654,9 +649,23 @@ options(<span class="pl-v">scipen</span> <span class="pl-k">=</span> <span class
 <span class="pl-smi">data</span><span class="pl-k">$</span><span class="pl-smi">month</span> <span class="pl-k">&lt;-</span> as.numeric(format(<span class="pl-smi">data</span><span class="pl-k">$</span><span class="pl-smi">date</span>, <span class="pl-s"><span class="pl-pds">"</span>%m<span class="pl-pds">"</span></span>))
 <span class="pl-smi">noNA</span> <span class="pl-k">&lt;-</span> na.omit(<span class="pl-smi">data</span>)
 rownames(<span class="pl-smi">noNA</span>) <span class="pl-k">&lt;-</span> <span class="pl-c1">1</span><span class="pl-k">:</span>nrow(<span class="pl-smi">noNA</span>)
-head(<span class="pl-smi">noNA</span>)
-dim(<span class="pl-smi">noNA</span>)
-library(<span class="pl-smi">ggplot2</span>)</pre></div>
+head(<span class="pl-smi">noNA</span>)</pre></div>
+
+<pre><code>##   steps       date interval month
+## 1     0 2012-10-02        0    10
+## 2     0 2012-10-02        5    10
+## 3     0 2012-10-02       10    10
+## 4     0 2012-10-02       15    10
+## 5     0 2012-10-02       20    10
+## 6     0 2012-10-02       25    10
+</code></pre>
+
+<div class="highlight highlight-r"><pre>dim(<span class="pl-smi">noNA</span>)</pre></div>
+
+<pre><code>## [1] 15264     4
+</code></pre>
+
+<div class="highlight highlight-r"><pre>library(<span class="pl-smi">ggplot2</span>)</pre></div>
 
 <h3><a id="user-content-what-is-mean-total-number-of-steps-taken-per-day" class="anchor" href="#what-is-mean-total-number-of-steps-taken-per-day" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is mean total number of steps taken per day?</h3>
 
@@ -668,6 +677,8 @@ library(<span class="pl-smi">ggplot2</span>)</pre></div>
 
 <div class="highlight highlight-r"><pre>ggplot(<span class="pl-smi">noNA</span>, aes(<span class="pl-smi">date</span>, <span class="pl-smi">steps</span>)) <span class="pl-k">+</span> geom_bar(<span class="pl-v">stat</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>identity<span class="pl-pds">"</span></span>, <span class="pl-v">colour</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>steelblue<span class="pl-pds">"</span></span>, <span class="pl-v">fill</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>steelblue<span class="pl-pds">"</span></span>, <span class="pl-v">width</span> <span class="pl-k">=</span> <span class="pl-c1">0.7</span>) <span class="pl-k">+</span> facet_grid(. <span class="pl-k">~</span> <span class="pl-smi">month</span>, <span class="pl-v">scales</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>free<span class="pl-pds">"</span></span>) <span class="pl-k">+</span> labs(<span class="pl-v">title</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Histogram of Total Number of Steps Taken Each Day<span class="pl-pds">"</span></span>, <span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Date<span class="pl-pds">"</span></span>, <span class="pl-v">y</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Total number of steps<span class="pl-pds">"</span></span>)</pre></div>
 
+<p><a href="/Xiaodan/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-3.png" target="_blank"><img src="/Xiaodan/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-3.png" alt="plot of chunk unnamed-chunk-3" style="max-width:100%;"></a> </p>
+
 <ul>
 <li>Calculate and report the mean and median total number of steps taken per day</li>
 </ul>
@@ -677,9 +688,15 @@ library(<span class="pl-smi">ggplot2</span>)</pre></div>
 <div class="highlight highlight-r"><pre><span class="pl-smi">totalSteps</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-smi">noNA</span><span class="pl-k">$</span><span class="pl-smi">steps</span>, <span class="pl-k">list</span>(<span class="pl-v">Date</span> <span class="pl-k">=</span> <span class="pl-smi">noNA</span><span class="pl-k">$</span><span class="pl-smi">date</span>), <span class="pl-v">FUN</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>sum<span class="pl-pds">"</span></span>)<span class="pl-k">$</span><span class="pl-smi">x</span>
 mean(<span class="pl-smi">totalSteps</span>)</pre></div>
 
+<pre><code>## [1] 10766
+</code></pre>
+
 <p>Median total number of steps taken per day:</p>
 
 <div class="highlight highlight-r"><pre>median(<span class="pl-smi">totalSteps</span>)</pre></div>
+
+<pre><code>## [1] 10765
+</code></pre>
 
 <h3><a id="user-content-what-is-the-average-daily-activity-pattern" class="anchor" href="#what-is-the-average-daily-activity-pattern" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is the average daily activity pattern?</h3>
 
@@ -692,11 +709,17 @@ names(<span class="pl-smi">avgSteps</span>)[<span class="pl-c1">2</span>] <span 
 
 ggplot(<span class="pl-smi">avgSteps</span>, aes(<span class="pl-smi">interval</span>, <span class="pl-smi">meanOfSteps</span>)) <span class="pl-k">+</span> geom_line(<span class="pl-v">color</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>steelblue<span class="pl-pds">"</span></span>, <span class="pl-v">size</span> <span class="pl-k">=</span> <span class="pl-c1">0.8</span>) <span class="pl-k">+</span> labs(<span class="pl-v">title</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Time Series Plot of the 5-minute Interval<span class="pl-pds">"</span></span>, <span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>5-minute intervals<span class="pl-pds">"</span></span>, <span class="pl-v">y</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Average Number of Steps Taken<span class="pl-pds">"</span></span>)</pre></div>
 
+<p><a href="/Xiaodan/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-6.png" target="_blank"><img src="/Xiaodan/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-6.png" alt="plot of chunk unnamed-chunk-6" style="max-width:100%;"></a> </p>
+
 <ul>
 <li>Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?</li>
 </ul>
 
 <div class="highlight highlight-r"><pre><span class="pl-smi">avgSteps</span>[<span class="pl-smi">avgSteps</span><span class="pl-k">$</span><span class="pl-smi">meanOfSteps</span> <span class="pl-k">==</span> max(<span class="pl-smi">avgSteps</span><span class="pl-k">$</span><span class="pl-smi">meanOfSteps</span>), ]</pre></div>
+
+<pre><code>##     interval meanOfSteps
+## 104      835       206.2
+</code></pre>
 
 <h3><a id="user-content-imputing-missing-values" class="anchor" href="#imputing-missing-values" aria-hidden="true"><span class="octicon octicon-link"></span></a>Imputing missing values</h3>
 
@@ -705,6 +728,9 @@ ggplot(<span class="pl-smi">avgSteps</span>, aes(<span class="pl-smi">interval</
 </ul>
 
 <div class="highlight highlight-r"><pre>sum(is.na(<span class="pl-smi">data</span>))</pre></div>
+
+<pre><code>## [1] 2304
+</code></pre>
 
 <ul>
 <li>Devise a strategy for filling in all of the missing values in the dataset. The strategy does not need to be sophisticated. For example, you could use the mean/median for that day, or the mean for that 5-minute interval, etc.</li>
@@ -723,8 +749,21 @@ ggplot(<span class="pl-smi">avgSteps</span>, aes(<span class="pl-smi">interval</
     }
 }
 
-head(<span class="pl-smi">newData</span>)
-sum(is.na(<span class="pl-smi">newData</span>))</pre></div>
+head(<span class="pl-smi">newData</span>)</pre></div>
+
+<pre><code>##     steps       date interval month
+## 1 1.71698 2012-10-01        0    10
+## 2 0.33962 2012-10-01        5    10
+## 3 0.13208 2012-10-01       10    10
+## 4 0.15094 2012-10-01       15    10
+## 5 0.07547 2012-10-01       20    10
+## 6 2.09434 2012-10-01       25    10
+</code></pre>
+
+<div class="highlight highlight-r"><pre>sum(is.na(<span class="pl-smi">newData</span>))</pre></div>
+
+<pre><code>## [1] 0
+</code></pre>
 
 <ul>
 <li>Make a histogram of the total number of steps taken each day and Calculate and report the mean and median total number of steps taken per day. </li>
@@ -734,6 +773,8 @@ sum(is.na(<span class="pl-smi">newData</span>))</pre></div>
                                              <span class="pl-v">colour</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>steelblue<span class="pl-pds">"</span></span>,
                                              <span class="pl-v">fill</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>steelblue<span class="pl-pds">"</span></span>,
                                              <span class="pl-v">width</span> <span class="pl-k">=</span> <span class="pl-c1">0.7</span>) <span class="pl-k">+</span> facet_grid(. <span class="pl-k">~</span> <span class="pl-smi">month</span>, <span class="pl-v">scales</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>free<span class="pl-pds">"</span></span>) <span class="pl-k">+</span> labs(<span class="pl-v">title</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Histogram of Total Number of Steps Taken Each Day (no missing data)<span class="pl-pds">"</span></span>, <span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Date<span class="pl-pds">"</span></span>, <span class="pl-v">y</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Total number of steps<span class="pl-pds">"</span></span>)</pre></div>
+
+<p><a href="/Xiaodan/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-10.png" target="_blank"><img src="/Xiaodan/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-10.png" alt="plot of chunk unnamed-chunk-10" style="max-width:100%;"></a> </p>
 
 <ul>
 <li>Do these values differ from the estimates from the first part of the assignment? What is the impact of imputing missing data on the estimates of the total daily number of steps?</li>
@@ -747,17 +788,30 @@ sum(is.na(<span class="pl-smi">newData</span>))</pre></div>
 <span class="pl-smi">newMean</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">newTotalSteps</span>)
 <span class="pl-smi">newMean</span></pre></div>
 
+<pre><code>## [1] 10766
+</code></pre>
+
 <p>Median total number of steps taken per day:</p>
 
 <div class="highlight highlight-r"><pre><span class="pl-smi">newMedian</span> <span class="pl-k">&lt;-</span> median(<span class="pl-smi">newTotalSteps</span>)
 <span class="pl-smi">newMedian</span></pre></div>
 
+<pre><code>## [1] 10766
+</code></pre>
+
 <p>Compare them with the two before imputing missing data:</p>
 
 <div class="highlight highlight-r"><pre><span class="pl-smi">oldMean</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">totalSteps</span>)
 <span class="pl-smi">oldMedian</span> <span class="pl-k">&lt;-</span> median(<span class="pl-smi">totalSteps</span>)
-<span class="pl-smi">newMean</span> <span class="pl-k">-</span> <span class="pl-smi">oldMean</span>
-<span class="pl-smi">newMedian</span> <span class="pl-k">-</span> <span class="pl-smi">oldMedian</span></pre></div>
+<span class="pl-smi">newMean</span> <span class="pl-k">-</span> <span class="pl-smi">oldMean</span></pre></div>
+
+<pre><code>## [1] 0
+</code></pre>
+
+<div class="highlight highlight-r"><pre><span class="pl-smi">newMedian</span> <span class="pl-k">-</span> <span class="pl-smi">oldMedian</span></pre></div>
+
+<pre><code>## [1] 1.189
+</code></pre>
 
 <p>So, after imputing the missing data, the new mean of total steps taken per day is the same as that of the old mean; the new median of total steps taken per day is greater than that of the old median.</p>
 
@@ -767,15 +821,39 @@ sum(is.na(<span class="pl-smi">newData</span>))</pre></div>
 <li>Create a new factor variable in the dataset with two levels -- "weekday" and "weekend" indicating whether a given date is a weekday or weekend day.</li>
 </ul>
 
-<div class="highlight highlight-r"><pre>head(<span class="pl-smi">newData</span>)
-<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span> <span class="pl-k">&lt;-</span> <span class="pl-k">factor</span>(format(<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">date</span>, <span class="pl-s"><span class="pl-pds">"</span>%A<span class="pl-pds">"</span></span>))
-levels(<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span>)
-levels(<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span>) <span class="pl-k">&lt;-</span> <span class="pl-k">list</span>(<span class="pl-v">weekday</span> <span class="pl-k">=</span> c(<span class="pl-s"><span class="pl-pds">"</span>Monday<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Tuesday<span class="pl-pds">"</span></span>,
+<div class="highlight highlight-r"><pre>head(<span class="pl-smi">newData</span>)</pre></div>
+
+<pre><code>##     steps       date interval month
+## 1 1.71698 2012-10-01        0    10
+## 2 0.33962 2012-10-01        5    10
+## 3 0.13208 2012-10-01       10    10
+## 4 0.15094 2012-10-01       15    10
+## 5 0.07547 2012-10-01       20    10
+## 6 2.09434 2012-10-01       25    10
+</code></pre>
+
+<div class="highlight highlight-r"><pre><span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span> <span class="pl-k">&lt;-</span> <span class="pl-k">factor</span>(format(<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">date</span>, <span class="pl-s"><span class="pl-pds">"</span>%A<span class="pl-pds">"</span></span>))
+levels(<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span>)</pre></div>
+
+<pre><code>## [1] "Friday"    "Monday"    "Saturday"  "Sunday"    "Thursday"  "Tuesday"  
+## [7] "Wednesday"
+</code></pre>
+
+<div class="highlight highlight-r"><pre>levels(<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span>) <span class="pl-k">&lt;-</span> <span class="pl-k">list</span>(<span class="pl-v">weekday</span> <span class="pl-k">=</span> c(<span class="pl-s"><span class="pl-pds">"</span>Monday<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Tuesday<span class="pl-pds">"</span></span>,
                                              <span class="pl-s"><span class="pl-pds">"</span>Wednesday<span class="pl-pds">"</span></span>, 
                                              <span class="pl-s"><span class="pl-pds">"</span>Thursday<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Friday<span class="pl-pds">"</span></span>),
                                  <span class="pl-v">weekend</span> <span class="pl-k">=</span> c(<span class="pl-s"><span class="pl-pds">"</span>Saturday<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>Sunday<span class="pl-pds">"</span></span>))
-levels(<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span>)
-table(<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span>)</pre></div>
+levels(<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span>)</pre></div>
+
+<pre><code>## [1] "weekday" "weekend"
+</code></pre>
+
+<div class="highlight highlight-r"><pre>table(<span class="pl-smi">newData</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span>)</pre></div>
+
+<pre><code>## 
+## weekday weekend 
+##   12960    4608
+</code></pre>
 
 <ul>
 <li>Make a panel plot containing a time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis).</li>
@@ -790,6 +868,8 @@ library(<span class="pl-smi">lattice</span>)
 xyplot(<span class="pl-smi">avgSteps</span><span class="pl-k">$</span><span class="pl-smi">meanOfSteps</span> <span class="pl-k">~</span> <span class="pl-smi">avgSteps</span><span class="pl-k">$</span><span class="pl-smi">interval</span> <span class="pl-k">|</span> <span class="pl-smi">avgSteps</span><span class="pl-k">$</span><span class="pl-smi">weekdays</span>, 
        <span class="pl-v">layout</span> <span class="pl-k">=</span> c(<span class="pl-c1">1</span>, <span class="pl-c1">2</span>), <span class="pl-v">type</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>l<span class="pl-pds">"</span></span>, 
        <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Interval<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>Number of steps<span class="pl-pds">"</span></span>)</pre></div>
+
+<p><a href="/Xiaodan/RepData_PeerAssessment1/blob/master/figure/unnamed-chunk-15.png" target="_blank"><img src="/Xiaodan/RepData_PeerAssessment1/raw/master/figure/unnamed-chunk-15.png" alt="plot of chunk unnamed-chunk-15" style="max-width:100%;"></a> </p>
 </article>
   </div>
 
@@ -828,7 +908,7 @@ xyplot(<span class="pl-smi">avgSteps</span><span class="pl-k">$</span><span clas
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.06637s from github-fe122-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.05673s from github-fe134-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
